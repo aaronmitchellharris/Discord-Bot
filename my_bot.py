@@ -7,7 +7,7 @@ import requests
 
 discord.opus.load_opus
 
-token = 'NTU4ODM1MDM2NjU3Mjg3MTY4.D3coeA.pJy2d-ZdR3fdn06-4zjVUsJhoUo'
+token = '' # insert secret token here
 
 bot = commands.Bot(command_prefix='!')
 
